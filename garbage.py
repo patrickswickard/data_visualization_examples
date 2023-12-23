@@ -1,6 +1,5 @@
+"""This is just to demonstrate how plt.show works outside a notebook"""
 import matplotlib.pyplot as plt
-import numpy as np
-import pandas as pd
 
 #empty_figure = plt.figure()
 #plt.show()
